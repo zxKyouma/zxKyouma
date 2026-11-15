@@ -1,7 +1,5 @@
 <div align="center">
 
-# Brandon Low
-
 **Medical student building AI for medical imaging and studying brain networks**
 
 BMedSci/MD at Monash University &nbsp;|&nbsp; Student researcher, iBRAIN Lab (Alfred Health / Monash)
