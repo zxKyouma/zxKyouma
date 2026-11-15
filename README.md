@@ -22,13 +22,7 @@ BMedSci/MD at Monash University &nbsp;|&nbsp; Student researcher, iBRAIN Lab (Al
 - [Melatonin induces per1a expression in zebrafish brain](https://doi.org/10.36877/pmmb.a0000455) (*Prog Microbes Mol Biol*, 2024)
 - [Cannabinoids: emerging sleep modulator](https://doi.org/10.1016/j.biopha.2023.115102) (*Biomed Pharmacother*, 2023)
 
-### Conference presentations
-
-- ISMRM 2026: oral presentation
-- European Epilepsy Congress 2026: first-author abstract selected for oral platform presentation
-- Alzheimer's Association International Conference (AAIC) 2026: poster
-- Asian and Oceanian Epilepsy Congress 2026: poster
-- European Congress of Radiology 2025: e-poster
+Presented at ISMRM 2026 (oral), AAIC 2026, AOEC 2026 and ECR 2025. First-author abstract selected for oral presentation at the European Epilepsy Congress 2026.
 
 ### Awards and competitions
 
