@@ -1,7 +1,5 @@
 <div align="center">
 
-**Medical student building AI for medical imaging and studying brain networks**
-
 BMedSci/MD at Monash University &nbsp;|&nbsp; Student researcher, iBRAIN Lab (Alfred Health / Monash)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon%20Low-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-low-zhen-xuen/)
@@ -29,5 +27,3 @@ BMedSci/MD at Monash University &nbsp;|&nbsp; Student researcher, iBRAIN Lab (Al
 - RSNA Knee Abnormality Detection 2026 (Kaggle): silver medal, 102nd of 6,299 teams ([KneeDx](https://github.com/zxKyouma/KneeDx))
 - UrbanFloodBench 2026 (Kaggle): 12th of 264 ([FloodGraphNet](https://github.com/zxKyouma/FloodGraphNet))
 - Roentgen radiology anatomy competition 2024: 2nd of 111
-
-More code: [Memoria](https://github.com/zxKyouma/Memoria), [trinet-dcm](https://github.com/zxKyouma/trinet-dcm), [RadiAgent](https://github.com/zxKyouma/RadiAgent)
