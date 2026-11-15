@@ -22,8 +22,18 @@ BMedSci/MD at Monash University &nbsp;|&nbsp; Student researcher, iBRAIN Lab (Al
 - [Melatonin induces per1a expression in zebrafish brain](https://doi.org/10.36877/pmmb.a0000455) (*Prog Microbes Mol Biol*, 2024)
 - [Cannabinoids: emerging sleep modulator](https://doi.org/10.1016/j.biopha.2023.115102) (*Biomed Pharmacother*, 2023)
 
-### Competitions
+### Conference presentations
+
+- ISMRM 2026: oral presentation
+- European Epilepsy Congress 2026: first-author abstract selected for oral platform presentation
+- Alzheimer's Association International Conference (AAIC) 2026: poster
+- Asian and Oceanian Epilepsy Congress 2026: poster
+- European Congress of Radiology 2025: e-poster
+
+### Awards and competitions
 
 - RSNA Knee Abnormality Detection 2026 (Kaggle): silver medal, 102nd of 6,299 teams ([KneeDx](https://github.com/zxKyouma/KneeDx))
+- Roentgen International Radiology Anatomy Competition 2024: 2nd of 111
+- Stanford iGEM 2025: gold medal, AI lead
+- International Chemistry Olympiad 2022: silver medal, Malaysia national team
 - UrbanFloodBench 2026 (Kaggle): 12th of 264 ([FloodGraphNet](https://github.com/zxKyouma/FloodGraphNet))
-- Roentgen radiology anatomy competition 2024: 2nd of 111
